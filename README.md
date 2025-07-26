@@ -16,12 +16,12 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **ChatApp**
-- 🌱 I’m learning **Backend/Springboot**
+- 🔭 I’m currently working on **VahanBook Web App**
+- 🌱 I’m learning **Backend/SpringBoot**
 - 👯 I’m looking to collaborate on **open source projects, startups, or cool apps**
-- 💬 Ask me about **JavaScript, React, Node.js, Web Dev**
+- 💬 Ask me about **JavaScript, Node.js, DSA, Web Dev**
 - 📫 How to reach me: [mukesh.dixena2002@gmail.com](mailto:mukesh.dixena2002@gmail.com)
-- ⚡ Fun fact: I love **coding challenges, music, and coffee ☕**
+- ⚡ Fun fact: I love **coding challenges and coding challenges**
 
 ---
 
