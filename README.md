@@ -1,108 +1,221 @@
-<!--
-  Hi! This is your GitHub Profile README.
-  To customize, just replace the placeholders with your info.
--->
+<h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
 
-<h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | REST APIs</h3>
 
 <p align="center">
   <a href="https://github.com/Mukeshdixena">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Mukeshdixena&style=flat-square&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=Mukeshdixena&style=flat-square&color=blue" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **VahanBook Web App**
-- 🌱 I’m learning **Backend/SpringBoot**
-- 👯 I’m looking to collaborate on **open source projects, startups, or cool apps**
-- 💬 Ask me about **JavaScript, Node.js, DSA, Web Dev**
-- 📫 How to reach me: [mukesh.dixena2002@gmail.com](mailto:mukesh.dixena2002@gmail.com)
-- ⚡ Fun fact: I love **coding challenges and coding challenges**
+* 💻 Java Backend Developer with **2+ years of experience** building and deploying production backend systems
+* 🚀 Currently working with **Java, Spring Boot, Microservices, REST APIs, Redis, Kafka, and MySQL**
+* 🔐 Experienced in **Spring Security, JWT, RBAC, OAuth 2.0, authentication & authorization**
+* 🏗️ Interested in **distributed systems, event-driven architecture, system design, and scalable backend services**
+* 🤖 Exploring **Generative AI, RAG, LLM integration, AI agents, and voice AI**
+* ☁️ Experience with **AWS, Docker, Swagger/OpenAPI, and CI/CD**
+* 🧠 Strong foundation in **DSA, OOP, SOLID, Design Patterns, LLD & HLD**
+* 🧩 Solved **280+ problems on LeetCode**
+* 📫 Reach me at **[mukesh.dixena2002@gmail.com](mailto:mukesh.dixena2002@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages:**  
-C/C++, JavaScript, TypeScript, Java, Python  
+### ☕ Languages
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
 </p>
+
+**Java · SQL · Python · C++**
+
+### 🌱 Backend & Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="45" height="45"/>
+</p>
+
+**Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices · JWT · OAuth 2.0 · RBAC · Event-Driven Architecture**
+
+### 🗄️ Databases & Messaging
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="45" height="45"/>
+</p>
+
+**PostgreSQL · MySQL · Redis · Apache Kafka · Schema Design · Indexing**
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+</p>
+
+**AWS (EC2 · S3 · RDS) · Docker · CI/CD · Git · GitHub · Swagger/OpenAPI**
+
+### 🧪 Testing
+
+**JUnit · Mockito · API Testing · Unit Testing**
+
+### 🤖 Generative AI
+
+**Spring AI · LLM Integration · RAG · pgvector · AI Agents · STT/TTS**
 
 ---
 
-### **Databases:**  
-SQL, MySQL, NoSQL, MongoDB, Mongoose  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+## 🚀 What I Work On
+
+### 🔹 Backend Engineering
+
+Building production-grade backend systems using:
+
+* Spring Boot & Spring Security
+* RESTful API design
+* Microservice architecture
+* JWT-based authentication & RBAC
+* Database design and optimization
+* Redis caching
+* Kafka-based asynchronous processing
+* API documentation with Swagger/OpenAPI
+
+### 🔹 Distributed & Event-Driven Systems
+
+I enjoy designing systems around:
+
+**Microservices → Kafka → Async Processing → Redis → Relational Databases**
+
+with a focus on reliability, scalability, and clean service boundaries.
+
+### 🔹 Generative AI + Backend
+
+Currently working on backend systems that combine traditional Java services with:
+
+**LLMs + RAG + Vector Search + STT/TTS + Kafka**
 
 ---
 
-### **Frameworks / Libraries:**  
-Node.js, Sequelize, React.js, Express.js, Spring Boot, Spring Cloud, Hibernate  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</p>
+## 📌 Featured Work
+
+### 🚗 Vehicle Quotation Management System
+
+A role-based Spring Boot microservices platform for creating, managing, and tracking vehicle quotations.
+
+**Tech:** Spring Boot · Microservices · MySQL · Redis · Kafka · JWT
+
+Key areas:
+
+* Role-based access control
+* Redis caching
+* Asynchronous processing
+* Excel import/export
+* REST APIs
 
 ---
 
-### **Tools & Platforms:**  
-Postman, Docker, Jenkins, MongoDB Atlas, Git, GitHub, AWS (S3, EC2, RDS)  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+### 🔐 Centralized User & Authentication Backend
 
+A reusable backend platform providing authentication, authorization, billing, and subscription capabilities across multiple services.
 
-<!-- --- -->
+**Tech:** Spring Boot · Spring Security · Microservices · MySQL · JWT
 
-<!-- ### 📂 Featured Projects
+Key areas:
 
-| Project         | Description                       | Tech Stack               | Link                                             |
-|-----------------|---------------------------------|--------------------------|--------------------------------------------------|
-| **AwesomeApp**  | A productivity app to boost focus| React, Node.js, MongoDB  | [GitHub](https://github.com/yourusername/awesomeapp) |
-| **ChatApp**     | Real-time chat application        | Vue, Firebase            | [GitHub](https://github.com/yourusername/chatapp)    |
-| **Portfolio**   | My personal portfolio website     | Next.js, Tailwind CSS    | [Live](https://yourusername.github.io/)           | -->
+* JWT authentication
+* RBAC
+* Centralized authorization
+* Reusable REST APIs
+* Subscription & billing services
 
 ---
 
-### 📊 GitHub Stats
+### 🤖 Generative AI Voice Calling Assistant
+
+Backend for an AI voice-calling platform that automates campaign calls using speech-to-text, LLM workflows, and text-to-speech.
+
+**Tech:** Spring Boot · Spring AI · Kafka · LLM APIs · RAG · pgvector
+
+Key areas:
+
+* Async Kafka processing
+* LLM workflow orchestration
+* RAG-based knowledge grounding
+* Vector embeddings
+* STT/TTS integration
+
+---
+
+### 💳 FinTech Payout & Wallet Platform
+
+Backend services for payouts, payment routing, and wallet operations processing **10K+ transactions/month**.
+
+**Tech:** Spring Boot · PostgreSQL · Payment Gateway · Webhooks
+
+Key areas:
+
+* Payment routing
+* Wallet APIs
+* Webhook integration
+* Idempotency keys
+* Retry mechanisms
+
+---
+
+## 🧠 Computer Science & System Design
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* SOLID Principles
+* Design Patterns
+* Low-Level Design (LLD)
+* High-Level Design (HLD)
+* Database Design
+* Microservices Architecture
+* Event-Driven Architecture
+
+**LeetCode:** 280+ problems solved
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshdixena&show_icons=true&theme=tokyonight" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshdixena&show_icons=true&theme=tokyonight" alt="Mukesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshdixena&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mukesh-dixena/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mukesh.dixena2002@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mukesh.dixena2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-Thanks for visiting my profile! 😊
+<p align="center">
+  <i>Building scalable backend systems, one API at a time.</i>
+</p>
